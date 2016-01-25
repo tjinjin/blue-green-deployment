@@ -1,5 +1,6 @@
 ## common
 region = "ap-northeast-1"
+key_name = "tjinjin-terraform"
 
 ## green settings
 green_ami    = "ami-b80b6db8"
